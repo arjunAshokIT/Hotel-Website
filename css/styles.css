@@ -83,7 +83,7 @@ p {
   font-size: 40px;
 }
 
-/* Navbar styles */
+/* Start of the Navbar styles */
 #navbar {
   background: #333;
   color: #fff;
@@ -119,10 +119,10 @@ p {
   background: #444;
   color: #f7c08a;
 }
+/* End of the Navbar styles  */
 
 
 /* Show case section styles */
-
 .bg-image {
   height: 600px;
   /* background-image: url('../images/bg-1.jpg');
@@ -298,5 +298,3 @@ p {
   text-align: center;
   padding: 20px;
 }
-
-
